@@ -1,6 +1,8 @@
 import React from 'react';
 import '../App.css';
 
+//The login uses multiple divs that will be created in the index.js 
+//All fields are styled in CSS and are included within the div
 export default class Login extends React.Component{
   render(){
     return(
